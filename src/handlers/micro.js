@@ -7,8 +7,8 @@ const handler = async (req, res) => {
 
         // Set the commit author if requested.
         let author = {
-            name: 'canada-bot',
-            email: 'canada.pr.bot@gmail.com',
+            name: 'PRB0t',
+            email: '34620110+PRB0t@users.noreply.github.com',
         };
         if (body.author) {
             author = body.author
